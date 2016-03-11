@@ -14,7 +14,7 @@ function ngLocator(Locator){
   
   return {
     restrict: 'E',
-    templateUrl: 'locator.html',
+    templateUrl: '../../views/locator.html',
     scope: {
       location: '='
     },
